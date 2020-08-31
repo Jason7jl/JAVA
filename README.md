@@ -23,10 +23,10 @@
 
 ## Resources
 
-https://www.learnjavaonline.org/en/Hello%2C_World%21
-https://www.w3schools.com/java/java_variables.asp
-https://www.javatpoint.com/java-data-types
-https://www.w3schools.com/java/java_methods.asp
+* https://www.learnjavaonline.org/en/Hello%2C_World%21
+* https://www.w3schools.com/java/java_variables.asp
+* https://www.javatpoint.com/java-data-types
+* https://www.w3schools.com/java/java_methods.asp
 
 ## MVP
 
