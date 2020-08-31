@@ -4,10 +4,10 @@
 
 > 1. Java compiler
 >> a) why java is platform independent
-2. Hello World with println
+> 2. Hello World with println
 >> a) print strings and other primitive data types
 >> b) concate string and other data types (concatenation)
-3. Variables and Data types. Introducing Data Types and Operators p.31
+> 3. Variables and Data types. Introducing Data Types and Operators p.31
 >> a) all primitive data types and "String"
 >> b) What is the difference between "String" and "char"
 >> c) What are two types of variables in Java?
