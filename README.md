@@ -3,7 +3,7 @@
 ## Techniques for learning new languages
 
 1. Java compiler
-* why java is platform independent
+>> why java is platform independent
 > 2. Hello World with println
 >> a) print strings and other primitive data types
 >> b) concate string and other data types (concatenation)
