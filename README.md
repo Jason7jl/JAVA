@@ -3,23 +3,23 @@
 ## Techniques for learning new languages
 
 1. Java compiler
-* why java is platform independent
+  * why java is platform independent
 2. Hello World with println
-* a) print strings and other primitive data types
-* b) concate string and other data types (concatenation)
+  * a) print strings and other primitive data types
+  * b) concate string and other data types (concatenation)
 3. Variables and Data types. Introducing Data Types and Operators p.31
-* a) all primitive data types and "String"
-* b) What is the difference between "String" and "char"
-* c) What are two types of variables in Java?
-* d) How many primitive data types in Java?
-* e) How to make a constant and why
-* f) How to init a few vars in one line
+  * a) all primitive data types and "String"
+  * b) What is the difference between "String" and "char"
+  * c) What are two types of variables in Java?
+  * d) How many primitive data types in Java?
+  * e) How to make a constant and why
+  * f) How to init a few vars in one line
 4. Math operations like \* / - +
 5. Methods
-* a) What are parameters and arguments of a method
-* b) What is a type of a method and how to return a value
+  * a) What are parameters and arguments of a method
+  * b) What is a type of a method and how to return a value
 6. If statement. Comparison Operators (< <= > >= == !=). Logical Operators (&& ||)
-* a) else with if
+  * a) else with if
 
 ## Resources
 
